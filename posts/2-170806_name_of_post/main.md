@@ -1,6 +1,6 @@
 ---
 Keywords:
-Copyright:
+Copyright:（c） 2019 Masa 
 ---
 
 # title
