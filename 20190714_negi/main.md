@@ -20,4 +20,4 @@ Copyright:　(c) 2019 Utlraman
 ##ドキュメント
 
 [ねぎ.pdf](ねぎ.pdf)
-[Wikipedia](httpsl//ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AE)
+[Wikipedia](https//ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AE)
