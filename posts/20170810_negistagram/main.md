@@ -8,8 +8,8 @@ Copyright:　(c) 2019 Utlraman
 ## Twitter
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">白ネギの実験
-<a herf="https://pbs.twimg.com/media/DG6QRYwUMAAwRgd?format=jpg&name=small</a></p>&mdash; Ryuichi Ueda  
-<a href="https://twitter.com/ryuichiueda/status/895812-78354563072">2017年8月11日</a></blockquote>
+<a herf="テスト">https://pbs.twimg.com/media/DG6QRYwUMAAwRgd?format=jpg&name=small</a></p>&mdash; Ryuichi Ueda  
+<a href="https://twitter.com/ryuichiueda/status/89581278354563072">2017年8月11日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ##ドキュメント
