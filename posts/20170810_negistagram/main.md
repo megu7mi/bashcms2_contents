@@ -7,10 +7,8 @@ Copyright:　(c) 2019 Utlraman
 
 ## Twitter
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">白ネギの実験
-<a herf="https://t.co/8WjG1GFAKL">pic.twitter.com/8WjG1GFAKL</a></p>&mdash; Ryuichi Ueda  
-<a href="https://twitter.com/ryuichiueda/status/89581278354563072">2017年8月11日</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">白ネギの実験 <a href="https://t.co/8WjG1GFAKL">pic.twitter.com/8WjG1GFAKL</a></p>&mdash; 上田 隆一 (@ryuichiueda) <a href="https://twitter.com/ryuichiueda/status/895812078354563072?ref_src=twsrc%5Etfw">2017年8月11日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ##ドキュメント
 
