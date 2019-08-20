@@ -18,4 +18,6 @@ Copyright:　(c) 2019 Utlraman
 [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AE)
 
 fetchを動かすために変更しています。
+
 fetch のテストに変更しています。8/20/2019
+上手くfetchできたようなのですが、こちらのステータスが出ないのでもう一度トライします。　
