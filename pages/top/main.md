@@ -1,6 +1,6 @@
 ---
 Keywords: bashcms2, bash
-Copyright: (C) 2017 Ryuichi Ueda
+Copyright: (C) 2019 Masa
 ---
 
 # bashcms2
